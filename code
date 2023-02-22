@@ -2,7 +2,7 @@
 绘制小猪佩奇
 """
 from turtle import *
-
+# 导入相应的包
 
 def nose(x,y):
     """画鼻子"""
